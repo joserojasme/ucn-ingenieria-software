@@ -4,6 +4,26 @@
 
 ---
 
+## Capturas de Pantalla del Sistema
+
+### Dashboard - Panel General del Proyecto
+
+![Dashboard](dashboard.png)
+
+### Gestion de Materiales
+
+![Materiales](materiales.png)
+
+### Control de Gastos
+
+![Gastos](gastos.png)
+
+### Seguimiento de Avances de Obra
+
+![Avances](avances.png)
+
+---
+
 ## Casos de Prueba
 
 ### Evidencias Simuladas
@@ -198,6 +218,8 @@ BuildTrack es un sistema de gestion de construccion de viviendas que facilita la
 
 ### Modulo de Materiales
 
+![Modulo de Materiales](materiales.png)
+
 #### Registrar un nuevo material
 
 1. Desde el menu principal, seleccionar **Materiales** en la barra de navegacion lateral
@@ -232,6 +254,8 @@ La pantalla principal del modulo muestra una tabla con todos los materiales regi
 
 ### Modulo de Control de Gastos
 
+![Modulo de Gastos](gastos.png)
+
 #### Registrar un gasto
 
 1. Desde el menu principal, seleccionar **Gastos** en la barra de navegacion
@@ -259,6 +283,8 @@ El panel de gastos muestra un resumen con el presupuesto total, el monto gastado
 ---
 
 ### Modulo de Avances de Obra
+
+![Modulo de Avances](avances.png)
 
 #### Registrar avance de una etapa
 
